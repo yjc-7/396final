@@ -1,0 +1,425 @@
+{
+  "summary": {
+    "total_files": 25,
+    "successful_predictions": 25,
+    "failed_predictions": 0,
+    "class_distribution": {
+      "laughing": 25
+    },
+    "emotion_distribution": {
+      "positive": 25
+    },
+    "average_confidence": 0.7644212520122529
+  },
+  "results": [
+    {
+      "audio_path": "data/laughing\\3S0D_12_8_0_16_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.78558349609375,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.78558349609375,
+        "sighing": 0.030689269304275513,
+        "tongue_clicking": 0.01124557200819254,
+        "throat_clearing": 0.03601787984371185,
+        "teeth_grinding": 0.027951132506132126,
+        "yawning": 0.06262706220149994,
+        "lip_smacking": 0.0458855964243412
+      }
+    },
+    {
+      "audio_path": "data/laughing\\4NEJ_12_1_0_16_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7479159832000732,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7479159832000732,
+        "sighing": 0.02799692191183567,
+        "tongue_clicking": 0.009262210689485073,
+        "throat_clearing": 0.0469190888106823,
+        "teeth_grinding": 0.05799870565533638,
+        "yawning": 0.03171816095709801,
+        "lip_smacking": 0.078188955783844
+      }
+    },
+    {
+      "audio_path": "data/laughing\\6HOK_12_3_0_27_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.33687689900398254,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.33687689900398254,
+        "sighing": 0.13586941361427307,
+        "tongue_clicking": 0.018396059051156044,
+        "throat_clearing": 0.1783311367034912,
+        "teeth_grinding": 0.07181175798177719,
+        "yawning": 0.1989906281232834,
+        "lip_smacking": 0.05972412973642349
+      }
+    },
+    {
+      "audio_path": "data/laughing\\82GZ_12_7_0_36_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7580051422119141,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7580051422119141,
+        "sighing": 0.03268496319651604,
+        "tongue_clicking": 0.016597386449575424,
+        "throat_clearing": 0.0938124880194664,
+        "teeth_grinding": 0.038726285099983215,
+        "yawning": 0.02538553811609745,
+        "lip_smacking": 0.03478815406560898
+      }
+    },
+    {
+      "audio_path": "data/laughing\\87LX_12_7_0_19_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7734935283660889,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7734935283660889,
+        "sighing": 0.040901780128479004,
+        "tongue_clicking": 0.009914955124258995,
+        "throat_clearing": 0.05261068418622017,
+        "teeth_grinding": 0.03450728952884674,
+        "yawning": 0.05909007415175438,
+        "lip_smacking": 0.029481559991836548
+      }
+    },
+    {
+      "audio_path": "data/laughing\\BYYM_12_6_0_32_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.785236656665802,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.785236656665802,
+        "sighing": 0.011811062693595886,
+        "tongue_clicking": 0.017804767936468124,
+        "throat_clearing": 0.045692525804042816,
+        "teeth_grinding": 0.04389070346951485,
+        "yawning": 0.02555350959300995,
+        "lip_smacking": 0.0700107291340828
+      }
+    },
+    {
+      "audio_path": "data/laughing\\CGFR_12_10_0_46_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.8143470883369446,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.8143470883369446,
+        "sighing": 0.014509609900414944,
+        "tongue_clicking": 0.01241725031286478,
+        "throat_clearing": 0.05170857906341553,
+        "teeth_grinding": 0.043591778725385666,
+        "yawning": 0.016726311296224594,
+        "lip_smacking": 0.04669941961765289
+      }
+    },
+    {
+      "audio_path": "data/laughing\\D6RI_12_3_1_20_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.6856634020805359,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.6856634020805359,
+        "sighing": 0.03124198317527771,
+        "tongue_clicking": 0.02901291288435459,
+        "throat_clearing": 0.13106995820999146,
+        "teeth_grinding": 0.047499652951955795,
+        "yawning": 0.02027570642530918,
+        "lip_smacking": 0.05523621663451195
+      }
+    },
+    {
+      "audio_path": "data/laughing\\GETF_12_5_1_39_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7494862675666809,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7494862675666809,
+        "sighing": 0.019767867401242256,
+        "tongue_clicking": 0.017884593456983566,
+        "throat_clearing": 0.11157858371734619,
+        "teeth_grinding": 0.031222810968756676,
+        "yawning": 0.029043003916740417,
+        "lip_smacking": 0.041016798466444016
+      }
+    },
+    {
+      "audio_path": "data/laughing\\H68F_12_7_0_24_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.8368799090385437,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.8368799090385437,
+        "sighing": 0.034715887159109116,
+        "tongue_clicking": 0.009815911762416363,
+        "throat_clearing": 0.050661470741033554,
+        "teeth_grinding": 0.01315788459032774,
+        "yawning": 0.03667872026562691,
+        "lip_smacking": 0.01809023879468441
+      }
+    },
+    {
+      "audio_path": "data/laughing\\I4S9_12_10_1_35_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7539294958114624,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7539294958114624,
+        "sighing": 0.02934255637228489,
+        "tongue_clicking": 0.024658899754285812,
+        "throat_clearing": 0.06478986144065857,
+        "teeth_grinding": 0.03109063021838665,
+        "yawning": 0.0504365898668766,
+        "lip_smacking": 0.045752059668302536
+      }
+    },
+    {
+      "audio_path": "data/laughing\\I7I0_12_1_0_31_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.8364483714103699,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.8364483714103699,
+        "sighing": 0.017708593979477882,
+        "tongue_clicking": 0.013532976619899273,
+        "throat_clearing": 0.06049693003296852,
+        "teeth_grinding": 0.022042248398065567,
+        "yawning": 0.019043931737542152,
+        "lip_smacking": 0.03072689287364483
+      }
+    },
+    {
+      "audio_path": "data/laughing\\KD21_12_1_1_26_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7548283338546753,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7548283338546753,
+        "sighing": 0.022992335259914398,
+        "tongue_clicking": 0.016977066174149513,
+        "throat_clearing": 0.10778387635946274,
+        "teeth_grinding": 0.02933727204799652,
+        "yawning": 0.03577139973640442,
+        "lip_smacking": 0.03230968117713928
+      }
+    },
+    {
+      "audio_path": "data/laughing\\MF7V_12_8_0_28_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.8308774828910828,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.8308774828910828,
+        "sighing": 0.017645880579948425,
+        "tongue_clicking": 0.008997414261102676,
+        "throat_clearing": 0.050679150968790054,
+        "teeth_grinding": 0.03740743547677994,
+        "yawning": 0.02128436043858528,
+        "lip_smacking": 0.033108144998550415
+      }
+    },
+    {
+      "audio_path": "data/laughing\\NBMB_12_3_0_58_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7582108974456787,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7582108974456787,
+        "sighing": 0.029684171080589294,
+        "tongue_clicking": 0.02519625797867775,
+        "throat_clearing": 0.0799451395869255,
+        "teeth_grinding": 0.03311046585440636,
+        "yawning": 0.028769658878445625,
+        "lip_smacking": 0.04508339613676071
+      }
+    },
+    {
+      "audio_path": "data/laughing\\O5E1_12_7_1_29_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.8465895056724548,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.8465895056724548,
+        "sighing": 0.01491626724600792,
+        "tongue_clicking": 0.010698944330215454,
+        "throat_clearing": 0.05299241840839386,
+        "teeth_grinding": 0.025447385385632515,
+        "yawning": 0.015805870294570923,
+        "lip_smacking": 0.033549610525369644
+      }
+    },
+    {
+      "audio_path": "data/laughing\\ONWC_12_2_0_15_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7132970094680786,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7132970094680786,
+        "sighing": 0.05913500115275383,
+        "tongue_clicking": 0.013436508364975452,
+        "throat_clearing": 0.045799508690834045,
+        "teeth_grinding": 0.024701805785298347,
+        "yawning": 0.09722553938627243,
+        "lip_smacking": 0.04640473052859306
+      }
+    },
+    {
+      "audio_path": "data/laughing\\PZ73_12_3_1_33_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7721832990646362,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7721832990646362,
+        "sighing": 0.021783918142318726,
+        "tongue_clicking": 0.012710053473711014,
+        "throat_clearing": 0.0983496755361557,
+        "teeth_grinding": 0.04162723943591118,
+        "yawning": 0.018606901168823242,
+        "lip_smacking": 0.03473896160721779
+      }
+    },
+    {
+      "audio_path": "data/laughing\\Q8PL_12_4_0_24_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.8050238490104675,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.8050238490104675,
+        "sighing": 0.022668978199362755,
+        "tongue_clicking": 0.015398413874208927,
+        "throat_clearing": 0.07101412862539291,
+        "teeth_grinding": 0.03441186994314194,
+        "yawning": 0.018396582454442978,
+        "lip_smacking": 0.03308616578578949
+      }
+    },
+    {
+      "audio_path": "data/laughing\\QI15_12_10_0_17_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.8419079184532166,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.8419079184532166,
+        "sighing": 0.012395340949296951,
+        "tongue_clicking": 0.013878457248210907,
+        "throat_clearing": 0.03476618975400925,
+        "teeth_grinding": 0.03498844429850578,
+        "yawning": 0.01629451848566532,
+        "lip_smacking": 0.04576912149786949
+      }
+    },
+    {
+      "audio_path": "data/laughing\\RX2O_12_7_0_30_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.84919273853302,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.84919273853302,
+        "sighing": 0.01463253889232874,
+        "tongue_clicking": 0.01016625389456749,
+        "throat_clearing": 0.04411058872938156,
+        "teeth_grinding": 0.02547922544181347,
+        "yawning": 0.021429426968097687,
+        "lip_smacking": 0.034989193081855774
+      }
+    },
+    {
+      "audio_path": "data/laughing\\UO1B_12_7_0_33_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7521709203720093,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7521709203720093,
+        "sighing": 0.02329745702445507,
+        "tongue_clicking": 0.02648240141570568,
+        "throat_clearing": 0.0788457840681076,
+        "teeth_grinding": 0.04661624878644943,
+        "yawning": 0.0334557481110096,
+        "lip_smacking": 0.03913138806819916
+      }
+    },
+    {
+      "audio_path": "data/laughing\\XRFV_12_6_0_30_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.8114969730377197,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.8114969730377197,
+        "sighing": 0.017732584848999977,
+        "tongue_clicking": 0.009467950090765953,
+        "throat_clearing": 0.04778642579913139,
+        "teeth_grinding": 0.03500116243958473,
+        "yawning": 0.027125386521220207,
+        "lip_smacking": 0.05138951167464256
+      }
+    },
+    {
+      "audio_path": "data/laughing\\Y2TI_12_7_0_23_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7852715849876404,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7852715849876404,
+        "sighing": 0.04792078956961632,
+        "tongue_clicking": 0.008425469510257244,
+        "throat_clearing": 0.07957197725772858,
+        "teeth_grinding": 0.011577636934816837,
+        "yawning": 0.050273679196834564,
+        "lip_smacking": 0.016958950087428093
+      }
+    },
+    {
+      "audio_path": "data/laughing\\Z69Q_12_9_1_28_0_0_0.wav",
+      "predicted_class": "laughing",
+      "confidence": 0.7256145477294922,
+      "emotion": "positive",
+      "description": "顾客满意或享受体验时常会发出的正向反馈",
+      "all_probabilities": {
+        "laughing": 0.7256145477294922,
+        "sighing": 0.0236277524381876,
+        "tongue_clicking": 0.023033853620290756,
+        "throat_clearing": 0.08663825690746307,
+        "teeth_grinding": 0.050044771283864975,
+        "yawning": 0.03620650991797447,
+        "lip_smacking": 0.054834384471178055
+      }
+    }
+  ],
+  "class_descriptions": {
+    "laughing": "顾客满意或享受体验时常会发出的正向反馈",
+    "sighing": "等待过久、操作不顺或不满时表现出的负向情绪",
+    "tongue_clicking": "对机器出错或结账流程不顺时，表达焦躁或不耐烦",
+    "throat_clearing": "等待过程中尝试引起注意或心理紧张时会清嗓，通常伴随焦虑感",
+    "teeth_grinding": "强烈挫败或生气时下意识的紧张反应",
+    "yawning": "大概率代表厌烦或无聊，可视为对系统体验不感兴趣",
+    "lip_smacking": "对看见商品/结账成功感到期待、轻度愉悦时可能发出的声音"
+  }
+}
